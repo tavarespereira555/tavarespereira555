@@ -24,4 +24,4 @@ Minha caixa de entrada está sempre aberta! Se você quiser trocar ideias sobre 
 
 ## Curriculo
 
-- [curriculo]([SEU_LINK_DO_CURRICULO_AQUI](https://docs.google.com/document/d/1ZoBnrDV_bnwM1HJT7F36ZuQCA4yI9BoH/edit))
+- [curriculo](https://docs.google.com/document/d/1ZoBnrDV_bnwM1HJT7F36ZuQCA4yI9BoH/edit)
